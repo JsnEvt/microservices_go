@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "uuid": "45688cd6-7a27-4a7b-89c5-a9b604eefe2f",
+      "product": "Lettuce - Treviso",
+      "price": "0.99"
+    },
+    {
+      "uuid": "45e99cd6-7817-4a7b-aaae-c89080987fe2f",
+      "product": "Fengreek Seed",
+      "price": "1.99"
+    },
+    {
+      "uuid": "9978038cd6-7a27-4a7b-19c5-BE8C90c9e79",
+      "product": "Beans - Kidney, Canned",
+      "price": "4.33"
+    },
+    {
+      "uuid": "991316546c-7a27-80c9cb-19c5-111132168e43",
+      "product": "Almods - Ground Blanched",
+      "price": "4.33"
+    },
+    {
+      "uuid": "80c9c0d9648d6-5590-1198-a62c5-900e49849e79",
+      "product": "Beans - Kidney, Canned",
+      "price": "4.33"
+    }
+  ]
+}
