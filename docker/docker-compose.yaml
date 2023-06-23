@@ -1,0 +1,13 @@
+version: '3'
+services:
+
+  rabbit:
+    image: "rabbitmq:3.12-management"
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "XVGHALLMYJOCXCRCIRBB"
+      RABBIT_DEFAULT_USER: "jsnrabbit"
+      RABBITMQ_DEFAULT_PASS: "jsnrabbit123"
+      RABBITMQ_DEFAULT_WHOST: "/"
+    ports:
+      - "15672:15672"
+      - "5672:5672"
